@@ -1,4 +1,4 @@
-# Agent CA 认证服务
+# Agent CA 认证服务（Deprecated）
 
 ## 1. 项目简要说明
 
